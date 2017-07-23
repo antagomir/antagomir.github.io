@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<title></title>
+
+
+
+
+
+
+<link rel="stylesheet" href="reset.css" type="text/css" />
+<link rel="stylesheet" href="bookdown.css" type="text/css" />
+
+</head>
+
+<body>
+
+
+
+
+
+
+
+<div id="resources-for-rmarkdown-notebooks" class="section level3">
+<h3>Resources for Rmarkdown notebooks</h3>
+<ul>
+<li>Excellent intro</li>
+</ul>
+<p><a href="http://rmarkdown.rstudio.com/rmarkdown_websites.html" class="uri">http://rmarkdown.rstudio.com/rmarkdown_websites.html</a></p>
+<ul>
+<li>Example sites</li>
+</ul>
+<p><a href="http://rmarkdown.rstudio.com/flexdashboard/layouts.html" class="uri">http://rmarkdown.rstudio.com/flexdashboard/layouts.html</a> <a href="http://rmarkdown.rstudio.com/" class="uri">http://rmarkdown.rstudio.com/</a> <a href="https://bookdown.org/" class="uri">https://bookdown.org/</a></p>
+<ul>
+<li>HTML widgets</li>
+</ul>
+<p><a href="http://www.htmlwidgets.org/" class="uri">http://www.htmlwidgets.org/</a></p>
+<ul>
+<li>Icons</li>
+</ul>
+<p><a href="https://getbootstrap.com/components/#glyphicons" class="uri">https://getbootstrap.com/components/#glyphicons</a> <a href="http://ionicons.com/" class="uri">http://ionicons.com/</a> <a href="http://fontawesome.io/icons/" class="uri">http://fontawesome.io/icons/</a></p>
+</div>
+
+</div>
+</div>
+
+<div id="footer">
+<div id="content">
+<div id="social">
+<a href="https://twitter.com/rstudio"><div class="socialIcon twitter"></div></a>
+<a href="https://github.com/rstudio"><div class="socialIcon gitHub"></div></a>
+<a href="https://www.linkedin.com/company/rstudio-inc"><div class="socialIcon linkedIn"></div></a>
+<a href="https://www.facebook.com/pages/RStudio-Inc/267733656584415"><div class="socialIcon facebook"></div></a>
+</div>
+
+<div id="finePrint">© Copyright 2016 <a href="https://www.rstudio.com">Leo</a>All Rights Reserved</div>
+</div>
+</div>
+
+<script src="js/jquery-1.12.2.min.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+  menuAnchor.parent().addClass('current');
+  
+  // now transform anchor urls so they work on bookdown.org
+  if (window.location.hostname == "bookdown.org") {
+    var pageAnchors = $('li.navItem a');
+    pageAnchors.each(function() {
+      var href = $(this).attr('href');
+      href = "/yihui/homepage/" + href;
+      $(this).attr('href', href);
+    });
+  }
+  
+  // bigNumber
+  var numberClasses = ["color1", "color2", "color3"];
+  var bigNumber = $('.section.bigNumber');
+  bigNumber.each(function(index) {
+    $(this).removeClass('bigNumber');
+    var span = $('<span class="bigNumber"></span>');
+    span.text(index + 1);
+    for (var i = 0; i<numberClasses.length; i++) {
+      var numberClass = numberClasses[i];
+      if ($(this).hasClass(numberClass)) {
+        $(this).removeClass(numberClass);
+        span.addClass(numberClass);
+        break;
+      }
+    }
+    var h2 = $(this).children('h2');
+    h2.prepend(span);
+  }); 
+  
+  // munge url
+  (function() {
+  var loc = window.top.location, his = window.top.history;
+  if (loc.protocol === 'https:' && loc.pathname !== '/' && his.replaceState)
+    his.replaceState({}, '', '/');
+  })();
+});
+
+</script>
+
+
+
+</body>
+</html>

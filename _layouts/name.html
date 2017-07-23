@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xml:lang="en" lang="en">
+  
+{% include head.html %}
+
+<body id="{{ page.section }}">
+
+  <div id="site">
+
+    <div class="col-md-2" id="header">
+      {% include nav-name.html %}
+    </div>
+
+    <div class="col-md-8" id="page">
+      {{ content }}
+      {% include footer.html %}      
+    </div>
+  </div>
+
+</body>
+  
+</html>
+
+
+
+
+
+
+

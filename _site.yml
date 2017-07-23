@@ -1,0 +1,49 @@
+name: "my-website"
+output_dir: "."
+exclude: ["docs.txt", "*.csv", "external.xml"]
+navbar:
+  title: "My Website"
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-info
+      href: about.html
+    - text: "Example"
+      icon: fa-info
+      href: getting-started.html      
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page_a.html
+        - text: "Page B"
+          href: page_b.html
+        - text: "---------"
+        - text: "Heading 2"
+        - text: "Page C"
+          href: page_c.html
+        - text: "Page D"
+          href: page_d.html
+  right:
+    - text:
+    - icon: ion-social-github
+      href: https://github.com/rstudio/bookdown
+output:
+  html_document:
+    highlight: tango
+    theme: null
+    mathjax: null
+    css: 
+      - "reset.css"
+      - "bookdown.css"
+    include:
+      after_body: footer.html
+
+
+
+    
+    
