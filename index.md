@@ -6,7 +6,7 @@ title: Leo Lahti
 <img class='inset right' src='images/meitsi2006.jpg' title='Leo Lahti' alt='Photo' width='120px' />
 
 		<div class="blurb">
-			<h1>Hi there, I'm Leo Lahti!</h1>
+			<h1>Homepage: Leo Lahti!</h1>
 			<p>Website temporarily under <em>maintenance</em>. <a href="/about">Read more about my research..</a></p>
 		</div> 
 
