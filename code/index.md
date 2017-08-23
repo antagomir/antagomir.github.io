@@ -36,13 +36,13 @@ Microbial Ecology and Network Analysis
 
 **[microbiome](http://microbiome.github.com)** Various tools for [microbiome data analysis](https://github.com/microbiome/microbiome), [neutral models](https://github.com/microbiome/NMGS), [metagenomic contig binning](https://github.com/BinPro/CONCOCT)  
 
-**[netresponse](https://github.com/antagomir/netresponse)** Modeling context-specific activation patterns in genome-wide interaction networks (R/Matlab). Originally applied to study transcriptional responses in genome-scale interaction networks across organism-wide collections of gene expression data.  
+**[netresponse](https://github.com/antagomir/netresponse)** Modeling context-specific activation patterns in genome-wide interaction networks (R/Matlab). Originally applied to study transcriptional responses in genome-scale interaction networks across organism-wide collections of gene expression data. [doi:10.18129/B9.BIOC.NETRESPONSE](https://doi.org/10.18129/B9.BIOC.NETRESPONSE)
 
 
 Functional Genomics
 -------------------
 
-**[RPA](http://bioconductor.org/packages/release/bioc/html/RPA.html)** (R/Bioconductor). Scalable probabilistic method for preprocessing short oligo microarray data. [_NAR_ 2013](http://nar.oxfordjournals.org/content/early/2013/04/05/nar.gkt229.abstract).
+**[RPA](http://bioconductor.org/packages/release/bioc/html/RPA.html)** (R/Bioconductor). Scalable probabilistic method for preprocessing short oligo microarray data. [_NAR_ 2013](http://nar.oxfordjournals.org/content/early/2013/04/05/nar.gkt229.abstract). [doi:10.18129/B9.BIOC.RPA](https://doi.org/10.18129/B9.BIOC.RPA)
 
 **[pint](http://bioconductor.org/packages/release/bioc/html/pint.html)** Probabilistic data integration for DNA/RNA data in functional genomics
 (R/Bioc). [_MLSP_ 2009](http://arxiv.org/abs/1101.5919).
