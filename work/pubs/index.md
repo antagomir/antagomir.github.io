@@ -33,7 +33,7 @@ Peer-reviewed articles
 
 **Alchemy & algorithms: perspectives on the philosophy and history of open science** Leo Lahti and Filipe da Silva and Markus Petteri Laine and Viivi Lähteenoja and Mikko Tolonen. _RIO Journal_ 3:e13593, 2017. [html](https://doi.org/10.3897/rio.3.e13593). Preprint awaiting post-publication review.
 
-**Comparative gut microbiota and resistome profiling of intensive care patients receiving selective digestive tract decontamination, healthy subjects** Elena Buelow, Teresita d.J. Bello González, Susana Fuentes, Wouter A.A. de Steenhuijsen Piters, Leo Lahti, Jumamurat R. Bayjanov, Eline A.M. Majoor, Johanna C. Braat, Maaike S. van Mourik, Evelien A.N. Oostdijk, Rob J.L. Willems, Marc J.M. Bonten, Mark W.J. van Passel, Hauke Smidt, Willem van Schaik. Microbiome. In press.
+**Comparative gut microbiota and resistome profiling of intensive care patients receiving selective digestive tract decontamination, healthy subjects** Elena Buelow, Teresita d.J. Bello González, Susana Fuentes, Wouter A.A. de Steenhuijsen Piters, Leo Lahti, Jumamurat R. Bayjanov, Eline A.M. Majoor, Johanna C. Braat, Maaike S. van Mourik, Evelien A.N. Oostdijk, Rob J.L. Willems, Marc J.M. Bonten, Mark W.J. van Passel, Hauke Smidt, Willem van Schaik. Microbiome 5(1):88, 2017. [doi:10.1186/s40168-017-0309-z](https://dx.doi.org/10.1186%2Fs40168-017-0309-z)
 
 **Retrieval and Analysis of Eurostat Open Data with the eurostat Package** Leo Lahti, Janne Huovari, Markus Kainu and Przemysław Biecek. _R Journal_ 9(1), 385-392, 2017. [html](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html)
 
