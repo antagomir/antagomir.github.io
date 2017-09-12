@@ -15,7 +15,8 @@ Presentation slides
 
 You can find the PDF/OpenOffice files for most slides [here](https://github.com/antagomir/antagomir.github.com/tree/master/files/publications).
 
-[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017. [Lecture slides](https://github.com/antagomir/antagomir.github.com/blob/master/files/publications/slides/20170913-Leuven-Lecture-Lahti.odp) | [Microbiome R Tutorial](https://github.com/antagomir/antagomir.github.com/blob/master/files/publications/slides/20170913-Leuven-Tutorial-Lahti.odp)
+[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017. [Lecture slides]((https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Lecture-Lahti.odp?raw=true)
+) | [R Tutorial](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Tutorial-Lahti.odp?raw=true)  
 
 [The semantics of data integration](https://github.com/antagomir/antagomir.github.com/blob/master/files/publications/slides/20170227-Lahti.pdf), Brussels, Belgium 2/2017
 
