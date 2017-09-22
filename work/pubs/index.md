@@ -37,7 +37,7 @@ Peer-reviewed articles
 
 **Retrieval and Analysis of Eurostat Open Data with the eurostat Package** Leo Lahti, Janne Huovari, Markus Kainu and Przemysław Biecek. _R Journal_ 9(1), 385-392, 2017. [html](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html)
 
-**Multi-stability and the origin of microbial community types** Karoline Faust, Didier Gonze, Leo Lahti, Jeroen Raes. _ISME Journal_ 2017. In press.
+**Multi-stability and the origin of microbial community types** Karoline Faust, Didier Gonze, Leo Lahti, Jeroen Raes. _ISME Journal_ 11:2159–2166, 2017. [doi:10.1038/ismej.2017.60](https://doi.org/10.1038/ismej.2017.60)
 
 **Intestinal microbiome landscaping: Insight in community assemblage and implications for microbial modulation strategies**. Sudarshan Shetty, Floor Hugenholtz, Leo Lahti, Hauke Smidt, Willem M de Vos, Antoine Danchin. _FEMS Microbiology Reviews_ fuw045, 2017 [html](https://academic.oup.com/femsre/article/doi/10.1093/femsre/fuw045/2979411/Intestinal-microbiome-landscaping-insight-in#58802539); [pdf](http://doi.org/10.1093/femsre/fuw045)  
 
