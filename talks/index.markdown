@@ -15,9 +15,9 @@ Presentation slides
 
 You can find the PDF/OpenOffice files for most slides [here](https://github.com/antagomir/antagomir.github.com/tree/master/files/publications).
 
-[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017. [Lecture slides](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Lecture-Lahti.odp?raw=true) | [R Tutorial](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Tutorial-Lahti.odp?raw=true)  
+[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017. [Lecture slides](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Lecture-Lahti.odp?raw=true) | [R Tutorial](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Tutorial-Lahti.odp?raw=true)    
 
-[rOpenGov: a community project for open government data](https://speakerdeck.com/antagomir/ropengov-at-user2017) in Brussel UseR! Conference, July 6, 2017 <script async class="speakerdeck-embed" data-id="26985a151419419c9b5035ad059c3fbb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+[rOpenGov: a community project for open government data](https://speakerdeck.com/antagomir/ropengov-at-user2017) in Brussel UseR! Conference, July 6, 2017 <script async class="speakerdeck-embed" data-id="26985a151419419c9b5035ad059c3fbb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>  
 
 [The semantics of data integration](https://github.com/antagomir/antagomir.github.com/blob/master/files/publications/slides/20170227-Lahti.pdf), Brussels, Belgium 2/2017
 
