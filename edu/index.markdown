@@ -17,12 +17,18 @@ Recent and forthcoming courses
 [Conference on Philosophy and History of Open Science (#PHOS16)](https://www.helsinki.fi/en/researchgroups/helsinki-digital-humanities/phos16-conference), Nov 30 - Dec 1, University of Helsinki, Finland.
 
 
+Presentation slides and posters
+-----
+
+See a separate page for [presentation slides and other material](../talks/)
+
+
 Tutorials and Data
 ----------
 
 <div class="section2" markdown="1">
 
-[Tutorial on microbiome data analysis](https://github.com/microbiome/microbiome/blob/master/vignettes/vignette.md)  
+[Tutorial on microbiome data analysis](http://microbiome.github.io/microbiome/)  
 
 [Eurostat open data analysis](https://github.com/rOpenGov/eurostat/blob/master/vignettes/eurostat_tutorial.md)
 
@@ -35,10 +41,6 @@ Tutorials and Data
 </div>
 
 
-Presentation slides and posters
------
-
-See a separate page for [presentation slides and other material](../talks/)
 
 
 
