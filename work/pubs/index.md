@@ -67,7 +67,7 @@ _Nature Communications_ 6:6342, 2015.
 
 **Tipping elements in the human intestinal ecosystem** Leo Lahti, Jarkko Salojärvi, Anne Salonen, Marten Scheffer, Willem M. de Vos. _Nature Communications_ 5:4344, 2014. [html](http://www.nature.com/ncomms/2014/140708/ncomms5344/full/ncomms5344.html) [data](http://doi.org/10.5061/dryad.pk75d)
 
-**Linking statistical and ecological theory: Hubbell's unified neutral theory of biodiversity as a hierarchical Dirichlet process** Keith Harris, Todd L Parsons, Umer Z Ijaz, Leo Lahti, Ian Holmes, Christopher Quince. _Proc. IEEE_ In press. [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7194742); [Code](https://github.com/microbiome/NMGS)
+**Linking statistical and ecological theory: Hubbell's unified neutral theory of biodiversity as a hierarchical Dirichlet process** Keith Harris, Todd L Parsons, Umer Z Ijaz, Leo Lahti, Ian Holmes, Christopher Quince. _Proc. IEEE_ 105(3):516--529, 2017 [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7194742); [Code](https://github.com/microbiome/NMGS)
 
 **Binning metagenomic contigs by coverage and composition** (CONCOCT) Johannes Alneberg, Brynjar Smári Bjarnason, Ino de Bruijn, Melanie Schirmer, Joshua Quick, Umer Z Ijaz, Leo Lahti, Nicholas J Loman, Anders F Andersson, Christopher Quince _Nature Methods_ 11:1144-6, 2014. [html](http://dx.doi.org/10.1038/nmeth.3103); [CONCOCT @ Github](https://github.com/BinPro/CONCOCT)
 
