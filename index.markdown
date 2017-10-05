@@ -19,7 +19,7 @@ More info on my [research activities and funding](info/).
 
 **News**
 
-**PhD position open** for calls until May 26, 2017 in Computational (bio)science in KU Leuven, Belgium / University of Turku, Finland ([English](https://rekry.saima.fi/certiahome/open_job_view.html?id=00003662&did=5600&lang=en&jc=14&nav_from_open_jobs_view_new=true) / [Finnish](https://rekry.saima.fi/certiahome/open_job_view.html?id=00003662&did=5600&lang=fi&jc=14&nav_from_open_jobs_view_new=true))
+**PhD position open** for calls until Oct 22, 2017 in Computational (bio)science in KU Leuven, Belgium / University of Turku, Finland [Application form](https://t.co/PJIdx4gxET) 
 
 
 Eurostat R package manuscript preprint now [online](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html).
