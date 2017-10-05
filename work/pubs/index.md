@@ -33,13 +33,13 @@ Peer-reviewed articles
 
 **Alchemy & algorithms: perspectives on the philosophy and history of open science** Leo Lahti and Filipe da Silva and Markus Petteri Laine and Viivi Lähteenoja and Mikko Tolonen. _RIO Journal_ 3:e13593, 2017. [html](https://doi.org/10.3897/rio.3.e13593). Preprint awaiting post-publication review.
 
-**Comparative gut microbiota and resistome profiling of intensive care patients receiving selective digestive tract decontamination, healthy subjects** Elena Buelow, Teresita d.J. Bello González, Susana Fuentes, Wouter A.A. de Steenhuijsen Piters, Leo Lahti, Jumamurat R. Bayjanov, Eline A.M. Majoor, Johanna C. Braat, Maaike S. van Mourik, Evelien A.N. Oostdijk, Rob J.L. Willems, Marc J.M. Bonten, Mark W.J. van Passel, Hauke Smidt, Willem van Schaik. Microbiome. In press.
+**Comparative gut microbiota and resistome profiling of intensive care patients receiving selective digestive tract decontamination, healthy subjects** Elena Buelow, Teresita d.J. Bello González, Susana Fuentes, Wouter A.A. de Steenhuijsen Piters, Leo Lahti, Jumamurat R. Bayjanov, Eline A.M. Majoor, Johanna C. Braat, Maaike S. van Mourik, Evelien A.N. Oostdijk, Rob J.L. Willems, Marc J.M. Bonten, Mark W.J. van Passel, Hauke Smidt, Willem van Schaik. Microbiome 5(1):88, 2017. [doi:10.1186/s40168-017-0309-z](https://dx.doi.org/10.1186%2Fs40168-017-0309-z)
 
 **Retrieval and Analysis of Eurostat Open Data with the eurostat Package** Leo Lahti, Janne Huovari, Markus Kainu and Przemysław Biecek. _R Journal_ 9(1), 385-392, 2017. [html](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html)
 
-**Multi-stability and the origin of microbial community types** Karoline Faust, Didier Gonze, Leo Lahti, Jeroen Raes. _ISME Journal_ 2017. In press.
+**Multi-stability and the origin of microbial community types** Karoline Faust, Didier Gonze, Leo Lahti, Jeroen Raes. _ISME Journal_ 11:2159–2166, 2017. [doi:10.1038/ismej.2017.60](https://doi.org/10.1038/ismej.2017.60)
 
-**Intestinal microbiome landscaping: Insight in community assemblage and implications for microbial modulation strategies**. Sudarshan Shetty, Floor Hugenholtz, Leo Lahti, Hauke Smidt, Willem M de Vos, Antoine Danchin. _FEMS Microbiology Reviews_ fuw045, 2017 [html](https://academic.oup.com/femsre/article/doi/10.1093/femsre/fuw045/2979411/Intestinal-microbiome-landscaping-insight-in#58802539); [pdf](http://doi.org/10.1093/femsre/fuw045)  
+**Intestinal microbiome landscaping: Insight in community assemblage and implications for microbial modulation strategies**. Sudarshan Shetty, Floor Hugenholtz, Leo Lahti, Hauke Smidt, Willem M de Vos, Antoine Danchin. _FEMS Microbiology Reviews_ 41(2):182-199, 2017 [html](https://academic.oup.com/femsre/article/doi/10.1093/femsre/fuw045/2979411/Intestinal-microbiome-landscaping-insight-in#58802539); [pdf](http://doi.org/10.1093/femsre/fuw045)  
 
 **A Quantitative Study of History in the English Short-Title Catalogue (ESTC) 1470-1800** Leo Lahti, Niko Ilomäki, Mikko Tolonen. _LIBER Quarterly_ 25(2):87-116, 2015. [html](http://doi.org/10.18352/lq.10112)  
 
@@ -67,7 +67,7 @@ _Nature Communications_ 6:6342, 2015.
 
 **Tipping elements in the human intestinal ecosystem** Leo Lahti, Jarkko Salojärvi, Anne Salonen, Marten Scheffer, Willem M. de Vos. _Nature Communications_ 5:4344, 2014. [html](http://www.nature.com/ncomms/2014/140708/ncomms5344/full/ncomms5344.html) [data](http://doi.org/10.5061/dryad.pk75d)
 
-**Linking statistical and ecological theory: Hubbell's unified neutral theory of biodiversity as a hierarchical Dirichlet process** Keith Harris, Todd L Parsons, Umer Z Ijaz, Leo Lahti, Ian Holmes, Christopher Quince. _Proc. IEEE_ In press. [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7194742); [Code](https://github.com/microbiome/NMGS)
+**Linking statistical and ecological theory: Hubbell's unified neutral theory of biodiversity as a hierarchical Dirichlet process** Keith Harris, Todd L Parsons, Umer Z Ijaz, Leo Lahti, Ian Holmes, Christopher Quince. _Proc. IEEE_ 105(3):516--529, 2017 [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7194742); [Code](https://github.com/microbiome/NMGS)
 
 **Binning metagenomic contigs by coverage and composition** (CONCOCT) Johannes Alneberg, Brynjar Smári Bjarnason, Ino de Bruijn, Melanie Schirmer, Joshua Quick, Umer Z Ijaz, Leo Lahti, Nicholas J Loman, Anders F Andersson, Christopher Quince _Nature Methods_ 11:1144-6, 2014. [html](http://dx.doi.org/10.1038/nmeth.3103); [CONCOCT @ Github](https://github.com/BinPro/CONCOCT)
 
