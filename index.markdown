@@ -19,10 +19,11 @@ More info on my [research activities and funding](info/).
 
 **News**
 
-**PhD position open** for calls until Oct 22, 2017 in Computational (bio)science in KU Leuven, Belgium / University of Turku, Finland [Application form](https://rekry.saima.fi/certiahome/open_job_view.html?id=00004342&did=5600&lang=en) 
+**PhD position open** now in computational (bio)science in University of Turku, Finland. Contact leo.lahti - at - iki.fi for details.  
 
+**Submissions open to Netherlands Annual Ecology Meeting** Feb 13-14, Lunteren, Netherlands: check our session on 'Microbial ecology; Community composition and dynamics' and submit an abstract for oral presentation. [Submission instructions](https://www.nern.nl/NAEM2018).  
 
-Eurostat R package manuscript preprint now [online](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html).
+Eurostat R package manuscript preprint [online](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html).
 
 [International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017  
 
