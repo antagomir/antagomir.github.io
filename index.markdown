@@ -19,7 +19,7 @@ More info on my [research activities and funding](info/).
 
 **News**
 
-**PhD position open** now in computational (bio)science in University of Turku, Finland. Contact leo.lahti - at - iki.fi for details.  
+**PhD position open** now in computational (bio)science in University of Turku, Finland. See the announcement [(in Finnish)](recruit.md)
 
 **Submissions open to Netherlands Annual Ecology Meeting** Feb 13-14, Lunteren, Netherlands: check our session on 'Microbial ecology; Community composition and dynamics' and submit an abstract for oral presentation. [Submission instructions](https://www.nern.nl/NAEM2018).  
 
