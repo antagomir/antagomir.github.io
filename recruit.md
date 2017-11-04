@@ -5,10 +5,10 @@ section: Home
 ---
 
 
-Haetaan tohtorikoulutettavaa: biolääketieteellinen data-analyysi ja mikrobiekologia (Turun yliopisto)
+Haetaan tohtorikoulutettavaa: biolääketieteellinen data-analyysi ja mikrobiekologia
 =======
 
-**Haemme** tohtorikoulutettavaa biolääketieteellisen data-analyysin alalle. Suositeltu aloituspäivä on 1.2.2018.
+**Haemme** tohtorikoulutettavaa biolääketieteellisen data-analyysin alalle Turun yliopistoon. Suositeltu aloituspäivä on 1.2.2018.
 
 **Hankkeessa tutkitaan** ihmiskehon mikrobiekosysteemien vaihtelua ja terveysvaikutuksia suurissa väestökohorteissa. Tutkimuksessa painottuvat laskennallisen tieteen ja bioinformatiikan menetelmien kehittäminen ja soveltaminen ajankohtaisessa mikrobiologian tutkimuksessa yhteistyössä johtavien koti- ja ulkomaisten yhteistyökumppanien kanssa. Tutkimus edistää sekä alan perustutkimusta että sovelluksia, ja väitöstyö tarjoaa mahdollisuuden myös kattavien valmiuksien omaksumiseen modernin data-analyysin alalla. Väitöskirja tehdään Turun yliopistossa; ohjaajina toimivat Dos. Teemu Niiranen (Lääketieteellinen tiedekunta) ja Dos. Leo Lahti (Matematiikan ja tilastotieteen laitos).
 
@@ -18,6 +18,6 @@ Haetaan tohtorikoulutettavaa: biolääketieteellinen data-analyysi ja mikrobieko
 
 **Haku** on avoinna toistaiseksi ja voidaan täyttää sopivan hakijan löydyttyä. Toivomme hakemuksia englannin kielellä. Hakemuksen tulee sisältää motivaatiokirje (1 sivu), CV (1-4 sivua), kopiot tutkintotodistuksista (kurssit ja arvosanat) sekä 1-2 suosittelijan yhteystiedot (nimi, työpaikka, sähköposti).
 
-**Hakemus & lisätiedot**: Teemu Niiranen <tejuni@utu.fi> / Leo Lahti <leo.lahti@utu.fi>
+**Hakemus & lisätiedot**: Teemu Niiranen <tejuni@utu.fi> / [Leo Lahti](http://www.iki.fi/Leo.Lahti) <leo.lahti@utu.fi>
 
 
