@@ -34,7 +34,13 @@ Machine Learning and ecological models
 Microbial Ecology and Network Analysis
 -----------------
 
-**[microbiome](http://microbiome.github.com)** Various tools for [microbiome data analysis](https://github.com/microbiome/microbiome), [neutral models](https://github.com/microbiome/NMGS), [metagenomic contig binning](https://github.com/BinPro/CONCOCT)  
+**[microbiome R/Bioconductor package](https://bioconductor.org/packages/devel/bioc/html/microbiome.html)** R toolkit for microbiome analysis.  
+
+**[Tutorial collection for microbiome analytics](https://microbiome.github.io/microbiome)**  
+
+**[Neutral models](https://github.com/microbiome/NMGS)**  
+
+**[Metagenomic contig binning](https://github.com/BinPro/CONCOCT)**  
 
 **[netresponse](https://github.com/antagomir/netresponse)** Modeling context-specific activation patterns in genome-wide interaction networks (R/Matlab). Originally applied to study transcriptional responses in genome-scale interaction networks across organism-wide collections of gene expression data. [doi:10.18129/B9.BIOC.NETRESPONSE](https://doi.org/10.18129/B9.BIOC.NETRESPONSE)
 
