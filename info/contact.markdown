@@ -53,6 +53,7 @@ Contact
   * [Publon reviewer profile](https://publons.com/author/246930/leo-lahti#stats)
   * [ImpactStory](https://impactstory.org/u/0000-0001-5537-637X)
   * [Depsy research software impact](http://depsy.org/person/333684)  
+  * [University of Turku Research Portal](https://research.utu.fi/converis/portal/Person/17607336?auxfun=&lang=en_GB)
 
 <!--* [Loop](http://loop.frontiersin.org/people/295152/overview)-->
 
