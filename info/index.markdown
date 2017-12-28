@@ -64,7 +64,7 @@ See [separate page](/work/teaching)
 [A brief biography of my research career](/info/bio). 
 -->
 
-**Industry Collaboration**
+**Industry Collaboration**  
 Scientific Advisor (AI & Machine Learning) for [Blueprint Genetics](https://blueprintgenetics.com/)  
 
 **Societies**  
