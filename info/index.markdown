@@ -64,6 +64,9 @@ See [separate page](/work/teaching)
 [A brief biography of my research career](/info/bio). 
 -->
 
+**Industry Collaboration**
+Scientific Advisor (AI & Machine Learning) for [Blueprint Genetics](https://blueprintgenetics.com/)  
+
 **Societies**  
 Active in [Open Knowledge Foundation Finland - Open Science Work Group](http://fi.okfn.org/wg/openscience/). Supporting member of [Public Library of Science](http://www.plos.org) (PLoS); [International Society for Microbial Ecology](http://www.isme-microbes.org/) (ISME); [Society for Bioinformatics in Northern Europe](http://www.socbin.org) (SocBIN); [Electronic Frontier Finland](http://www.effi.org) (EFFI); [Amnesty International](http://www.amnesty.fi) (founding member and president 2001-2004 for student group at Helsinki University of Technology); [Friends of the Earth](http://www.maanystavat.fi); [Service Civil International](http://www.kvtfinland.org) (SCI); [Association for Online Democrary in Finland](http://www.verkkodemokratia.fi/); [Kansan Muisti](http://kansanmuisti.fi); [The Association for Investigative Journalism in Finland](http://www.tutkiva.fi/content/association-investigative-journalism-finland); [Open Knowledge Foundation Finland](http://fi.okfn.org/).
 
