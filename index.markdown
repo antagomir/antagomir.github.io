@@ -21,7 +21,7 @@ More info on my [research activities and funding](info/).
 
 **News**
 
-Eurostat R package manuscript preprint [online](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html).
+Two new PhD students (Ville Laitinen, Aaro Salosensaari) and a MSc student (Binu Matthew) are joining the research team.
 
 
 **Research interests**  
