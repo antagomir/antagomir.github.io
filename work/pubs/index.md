@@ -183,7 +183,12 @@ See the separate [code](../../code/) and [data](../../files/publications/) pages
 </div>
 
 
+Science popularization
+-----
 
+<div class="section2" markdown="1">
+**Microbiome Yarns: human biome reproduction, evolution and visual acuity** Timmis K, Jebok F, Molinari G, Rohde M, Lahti L. Microbiome Yarns: human biome reproduction, evolution and visual acuity. Microbial Biotechnology 11(1):149-159, 2018. [doi:10.1111/1751-7915.13037](http://dx.doi.org/10.1111/1751-7915.13037)
+</div>
 
 
 

@@ -11,26 +11,22 @@ Leo Lahti
 
 Academy of Finland Research Fellow 2016-2021  
 [University of Turku](https://www.utu.fi/en/units/sci/units/math/Pages/home.aspx), Finland. Docent/Adjunct Professor. Applied Mathematics  
-[KU Leuven](http://www.kuleuven.be/wieiswie/en/unit/50000700), Belgium. Senior Postdoc  
-[Open Science work group](http://fi.okfn.org/wg/openscience/) of the Open Knowledge Finland (OKF). Founding member  
+[KU Leuven](http://www.kuleuven.be/wieiswie/en/unit/50000700), Belgium. Visiting Researcher  
+[Open Science work group](http://fi.okfn.org/wg/openscience/) of the
+Open Knowledge Finland (OKF). Founding member and former coordinator  
+[Blueprint Genetics](https://blueprintgenetics.com/) - Scientific Advisor (AI & Machine Learning)  
 
 More info on my [research activities and funding](info/).
 
 
 **News**
 
-**PhD position open** for calls until Oct 22, 2017 in Computational (bio)science in KU Leuven, Belgium / University of Turku, Finland [Application form](https://rekry.saima.fi/certiahome/open_job_view.html?id=00004342&did=5600&lang=en) 
-
-
-Eurostat R package manuscript preprint now [online](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html).
-
-[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017  
-
-[Conference on Philosophy and History of Open Science (#PHOS16)](https://www.helsinki.fi/en/researchgroups/helsinki-digital-humanities/phos16-conference), Nov 30 - Dec 1, University of Helsinki, Finland
+Two new PhD students (Ville Laitinen, Aaro Salosensaari) and a MSc student (Binu Matthew) are joining the research team.
 
 
 **Research interests**  
 Computational science and high-throughput data analysis  
+Probabilistic machine learning; Artificial Intelligence  
 Microbial ecology and functional genomics  
 Digital humanities and computational social science  
 Machine learning open source software  
