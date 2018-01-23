@@ -21,6 +21,8 @@ More info on my [research activities and funding](info/).
 
 **News**
 
+[Report](https://www.hs.fi/paivanlehti/23012018/art-2000005534747.html) (in Finnish) on our research in computational history in Helsingin Sanomat, Jan 23, 2018.
+
 Two new PhD students (Ville Laitinen, Aaro Salosensaari) and a MSc student (Binu Matthew) are joining the research team.
 
 
