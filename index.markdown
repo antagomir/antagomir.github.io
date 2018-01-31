@@ -21,6 +21,8 @@ More info on my [research activities and funding](info/).
 
 **News**
 
+[Opening Academic Publishing](https://openscience.fi/opening-academic-publishing) - a report with systematic evaluation tools and analysis of open science performance of nine large academic publishers is out!
+
 [Story in Helsingin Sanomat](https://www.hs.fi/paivanlehti/23012018/art-2000005534747.html) (in Finnish) on our research in computational history, Jan 23, 2018.
 
 Two new PhD students (Ville Laitinen, Aaro Salosensaari) and a MSc student (Binu Matthew) are joining the research team.
