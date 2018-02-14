@@ -21,7 +21,7 @@ More info on my [research activities and funding](info/).
 
 **News**
 
-[Open Science workshops in DHN2018, Helsinki on March 9 - registration now open!](https://docs.google.com/forms/d/e/1FAIpQLSfDWx9rtfbkSEGWvZ_xaTBpPIESw2sqnnNvtt19jC17IreKrw/viewform)
+[Open Science workshops in DHN2018, Helsinki on March 9 - registration now open!](https://goo.gl/forms/Kr4OGELf10uP8BvE3)
 
 [Opening Academic Publishing](https://openscience.fi/opening-academic-publishing) - a report with systematic evaluation tools and analysis of open science performance of nine large academic publishers is out!
 
