@@ -21,7 +21,7 @@ More info on my [research activities and funding](info/).
 
 **News**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDWx9rtfbkSEGWvZ_xaTBpPIESw2sqnnNvtt19jC17IreKrw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">March 9 Open Science workshops in Helsinki</iframe>
+[Open Science workshops in DHN2018, Helsinki on March 9 - registration now open!](https://docs.google.com/forms/d/e/1FAIpQLSfDWx9rtfbkSEGWvZ_xaTBpPIESw2sqnnNvtt19jC17IreKrw/viewform)
 
 [Opening Academic Publishing](https://openscience.fi/opening-academic-publishing) - a report with systematic evaluation tools and analysis of open science performance of nine large academic publishers is out!
 
