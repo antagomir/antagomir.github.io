@@ -21,6 +21,8 @@ More info on my [research activities and funding](info/).
 
 **News**
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDWx9rtfbkSEGWvZ_xaTBpPIESw2sqnnNvtt19jC17IreKrw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">March 9 Open Science workshops in Helsinki</iframe>
+
 [Opening Academic Publishing](https://openscience.fi/opening-academic-publishing) - a report with systematic evaluation tools and analysis of open science performance of nine large academic publishers is out!
 
 [Story in Helsingin Sanomat](https://www.hs.fi/paivanlehti/23012018/art-2000005534747.html) (in Finnish) on our research in computational history, Jan 23, 2018.
