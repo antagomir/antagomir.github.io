@@ -29,7 +29,7 @@ Peer-reviewed articles
 
 <!--**Printing in a Periphery: a Quantitative Study of Finnish Knowledge Production, 1640-1828** Mikko Tolonen, Niko Ilomäki, Hege Roivainen, Leo Lahti. _Digital Humanities 2016_. Krakow, Poland. [abstract](http://dh2016.adho.org/abstracts/9)-->
 
-**Babouk MS Arani, Mahdi Mahmoudi, Leo Lahti, J Gonzalez, Ernst Wit** Stability estimation of autoregulated genes under Michaelis-Menten type kinetics. In press.
+**Stability estimation of autoregulated genes under Michaelis-Menten type kinetics** Babouk MS Arani, Mahdi Mahmoudi, Leo Lahti, J Gonzalez, Ernst Wit. In press.
 
 **Opening academic publishing: development and application of systematic evaluation criteria** Anna Björk, Juho-Matti Paavolainen, Teemu Ropponen, Mikael Laakso, Leo Lahti. Report on the openness of major scientific publishers. Publisher: Open Science and Research Initiative (ATT). January 31, 2018. [Press release](https://openscience.fi/opening-academic-publishing); [PDF](../../files/publications/papers/2018-Bjork-ATT.pdf)
 
