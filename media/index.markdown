@@ -15,6 +15,7 @@ Presentation slides, posters and other material available via [Github](https://g
 <!-- To adjust frame size use: -->
 <!--<iframe src="http://livestream.com/accounts/2914987/events/4349899/videos/100125511/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>-->
 
+[**Academy of Finland video blog**](https://www.youtube.com/watch?v=duF4LBCII9o&t=4s) 2/2017  
 
 [**Open Peer Review**](http://livestream.com/accounts/2914987/events/4349899/videos/100125511/player?autoPlay=false&height=360&mute=false&width=640) Presentation in Academic MindTrek, Tampere 24.9.2015
 

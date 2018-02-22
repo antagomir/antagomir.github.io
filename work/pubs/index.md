@@ -31,7 +31,7 @@ Peer-reviewed articles
 
 **Babouk MS Arani, Mahdi Mahmoudi, Leo Lahti, J Gonzalez, Ernst Wit** Stability estimation of autoregulated genes under Michaelis-Menten type kinetics. In press.
 
-**Opening academic publishing: development and application of systematic evaluation criteria** Anna Björk, Juho-Matti Paavolainen, Teemu Ropponen, Mikael Laakso, Leo Lahti. Report on the openness of major scientific publishers (in Finnish). Publisher: Open Science and Research Initiative (ATT). January 2018. [pdf](www.avointiede.fi/keskeiset-julkaisut)
+**Opening academic publishing: development and application of systematic evaluation criteria** Anna Björk, Juho-Matti Paavolainen, Teemu Ropponen, Mikael Laakso, Leo Lahti. Report on the openness of major scientific publishers. Publisher: Open Science and Research Initiative (ATT). January 31, 2018. [Press release](https://openscience.fi/opening-academic-publishing); [PDF](../../files/publications/papers/2018-Bjork-ATT.pdf)
 
 **Alchemy & algorithms: perspectives on the philosophy and history of open science** Leo Lahti and Filipe da Silva and Markus Petteri Laine and Viivi Lähteenoja and Mikko Tolonen. _RIO Journal_ 3:e13593, 2017. [html](https://doi.org/10.3897/rio.3.e13593). Preprint awaiting post-publication review.
 
