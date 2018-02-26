@@ -13,7 +13,7 @@ Presentation slides
 
 <div class="section2" markdown="1">
 
-You can find the PDF/OpenOffice files for most slides [here](https://github.com/antagomir/antagomir.github.com/tree/master/files/publications).
+You can find the PDF/OpenOffice files for most slides [here](../files/publications). See also the separate page on [teaching material](../edu/).
 
 [International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017. [Lecture slides](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Lecture-Lahti.odp?raw=true) [R Tutorial](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20170913-Leuven-Tutorial-Lahti.odp?raw=true)  
 

@@ -7,12 +7,13 @@ section: Home
 Teaching
 =======
 
-Recent and forthcoming courses
+
+Courses
 -----
 
-[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017
+Introduction to probabilistic programming. Workshop in VIB/KU Leuven, Belgium Feb 26, 2017. Lecture slides [ODP](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20180226-rstan-VIB.odp); [PDF](https://github.com/antagomir/antagomir.github.io/blob/master/files/publications/slides/20180226-rstan-VIB.pdf)
 
-[Digital Humanities Hackathon]() University of Helsinki May 15-19, 2017 (more info coming soon)
+[International summer school on microbial network analysis](http://psbweb05.psb.ugent.be/conet/econetschool/index.php) in Leuven, Belgium Sep 11-13, 2017
 
 [Conference on Philosophy and History of Open Science (#PHOS16)](https://www.helsinki.fi/en/researchgroups/helsinki-digital-humanities/phos16-conference), Nov 30 - Dec 1, University of Helsinki, Finland.
 
