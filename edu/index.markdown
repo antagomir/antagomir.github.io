@@ -17,7 +17,8 @@ Introduction to probabilistic programming. Workshop in VIB/KU Leuven, Belgium Fe
 
 [Conference on Philosophy and History of Open Science (#PHOS16)](https://www.helsinki.fi/en/researchgroups/helsinki-digital-humanities/phos16-conference), Nov 30 - Dec 1, University of Helsinki, Finland.
 
-Software
+
+Teaching software
 -----
 
 [An open framework for creating and assessing exercises for R courses](https://ropengov.github.io/edu/). UseR2017! talk on community-based learning and knowledge sharing; 7/2017

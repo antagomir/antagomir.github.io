@@ -23,6 +23,8 @@ More info on my [research activities and funding](info/).
 
 [Open Science workshops in DHN2018, Helsinki on March 9 - registration now open!](https://goo.gl/forms/Kr4OGELf10uP8BvE3)
 
+[Introduction to probabilistic programming Workshop](http://www.vib.be/en/training/research-training/courses/Pages/Probabilistic-programming-with-(R)Stan,-a-new-approach-to-linear-models.aspx) in VIB/KU Leuven, Belgium Feb 26, 2017. [Links to material](edu/)
+
 [Opening Academic Publishing](https://openscience.fi/opening-academic-publishing) - a report with systematic evaluation tools and analysis of open science performance of nine large academic publishers is out!
 
 [Story in Helsingin Sanomat](https://www.hs.fi/paivanlehti/23012018/art-2000005534747.html) (in Finnish) on our research in computational history, Jan 23, 2018.
